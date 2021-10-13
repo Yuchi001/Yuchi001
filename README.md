@@ -1,0 +1,5 @@
+-Hi, my name is Kamil! You can find me and my projects by my nickname Yuhi!
+-I love coding games is Unity, I am open to create games together if you wish x)
+-I am currently studying at the Silesian Technical University, also I am looking for intership or a junior unity dev job
+-I started using GitHub recently, so I am not so good with it haha
+-You can find me at itch.io and gamejolt!
